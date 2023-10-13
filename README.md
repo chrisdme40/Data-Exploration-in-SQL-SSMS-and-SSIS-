@@ -1,2 +1,2 @@
 # Data-Exploration-in-SQL-SSMS-and-SSIS-
-In this Project i have perfomed sql queries in SQL server management studio to explore the data and found some interesting insights.
+In this Project I have perfomed SQL queries in SQL Server Management Studio to explore and analyze the data to gain insights.
